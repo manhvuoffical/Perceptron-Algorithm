@@ -208,15 +208,9 @@ Where:
 
 **ManhVu**  
 Computer Science Student  
-Vietnam
 
----
 
-## 📅 Date
 
-2026
-
----
 
 ## 🎓 Course Information
 
@@ -239,18 +233,5 @@ Vietnam
 
 ---
 
-## 📚 References
-
-1. Perceptron Learning Algorithm: https://en.wikipedia.org/wiki/Perceptron
-2. Scikit-learn Documentation: https://scikit-learn.org
-3. Breast Cancer Dataset: https://archive.ics.uci.edu/ml/datasets/breast+cancer+wisconsin
-
----
-
-## 🤝 Contributing
-
-Feel free to fork, modify, and improve this solution!
-
----
 
 **Happy Learning!** 🚀
